@@ -9,11 +9,11 @@ replicate etch sketch game using python
 
 
 Simple python code using python turtle module to reproduce Etch Sketch's behaviour, using board key as knobs:
-'w' = move forward
-'s' = move backward
-'d' = turn clockwise
-'a' = turn left
-'c' = screen reset (shaking etch sketch 🧚)
+* 'w' = move forward
+* 's' = move backward
+* 'd' = turn clockwise
+* 'a' = turn left
+* 'c' = screen reset (shaking etch sketch 🧚)
 
 
 
